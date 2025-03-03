@@ -13,8 +13,8 @@
 
 - 📄 Minhas experiências [https://www.linkedin.com/in/lucassilvad](https://www.linkedin.com/in/lucassilvad)
 
-<h3 align="left"> Tech Skills:</h3>
-
+🖥 <h3 align="left"> Tech Skills:</h3>
+<hr>
 <p align="left"> <a href="//upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"><img alt="Ficheiro:Microsoft Excel 2013-2019 logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/881px-Microsoft_Excel_2013-2019_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1174px-Microsoft_Excel_2013-2019_logo.svg.png 2x" data-file-width="587" data-file-height="554"> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="pandas" width="40" height="40"/> 
 </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
