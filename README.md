@@ -1,7 +1,10 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas</h1>
 <h3 align="center">Apaixonado por análise de dados no mundo digital</h3>
 
-- 🌱 Atualmente estou aprendendo **Power BI e Estatística.**
+- 🌱 Analista de Dados
+
+- Formado em Análise e Desenvolvimento de Sistemas
+- Estágio em Análise de Dados No Banco Santander
 
 - 💬 Me pergunte sobre **SQL, Power BI, Excel, Python e Estatística**
 
