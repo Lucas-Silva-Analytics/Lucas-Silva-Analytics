@@ -1,10 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas</h1>
 <h3 align="center">Apaixonado por análise de dados no mundo digital</h3>
 
-- 🌱 Analista de Dados
+- 📊 Analista de Dados
 
-- Formado em Análise e Desenvolvimento de Sistemas
-- Estágio em Análise de Dados No Banco Santander
+- 👨‍🎓 Com experiência pelo estágio em Análise de Dados
 
 - 💬 Me pergunte sobre **SQL, Power BI, Excel, Python e Estatística**
 
