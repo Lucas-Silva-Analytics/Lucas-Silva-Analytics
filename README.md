@@ -2,7 +2,7 @@
 <h3 align="center">Apaixonado por análise de dados no mundo digital</h3>
 
 🗨 Sobre mim:
-<br>
+<hr>
 - 📊 Analista de Dados
 
 - 👨‍🎓 Com experiência pelo estágio em Análise de Dados
