@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas</h1>
 <h3 align="center">Apaixonado por análise de dados no mundo digital</h3>
 
+🗨 Sobre mim:
+<br>
 - 📊 Analista de Dados
 
 - 👨‍🎓 Com experiência pelo estágio em Análise de Dados
