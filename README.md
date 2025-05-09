@@ -11,7 +11,7 @@
 
 - 📫 Você me acha através do e-mail **lucas-lucas14@outlook.com**
 
-- 📄 Minhas experiências [https://www.linkedin.com/in/lucassilvad](https://www.linkedin.com/in/lucassilvad)
+- 📄 Minhas experiências [LinkedIn](https://www.linkedin.com/in/lucassilvad)
 
 <h3 align="left"> 🖥 Tech Skills:</h3>
 <hr>
