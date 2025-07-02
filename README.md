@@ -3,9 +3,10 @@
 
 <h3> 🗨 Sobre mim: </h3>
 <hr>
-- 📊 Analista de Dados
 
-- 👨‍🎓 Com experiência pelo estágio em Análise de Dados
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+
+- 📊 Com experiência pelo estágio em Análise de Dados
 
 - 💬 Me pergunte sobre **SQL, Power BI, Excel, Python e Estatística**
 
