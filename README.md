@@ -12,11 +12,16 @@
 
 - 📫 Você me acha através do e-mail **lucas-lucas14@outlook.com**
 
-- ⚽ Gosto de Esportes (Futebol), me exercitar na Academia e quem sabe uma arte marcial futuramente
+- ⚽ Gosto de Esportes (Futebol), me exercitar na Academia
   
-- 📺 Eu curto animes! Um dos meus favoritos é Death Note, no entanto um Naruto, Bleach ou One Piece é bem vindo!!!
+- 📺 Eu curto animes! Um dos meus favoritos é Death Note, no entanto um Naruto, Bleach ou One Piece é Bem vindo!!!
 
-- 📄 Minhas experiências [LinkedIn](https://www.linkedin.com/in/lucassilvad)
+- 📄 **Minhas experiências** [LinkedIn](https://www.linkedin.com/in/lucassilvad)
+
+
+<h3 align="left"> 🎲 Meu Portfólio:</h3>
+<hr>
+- **Acesse aqui ->** [https://github.com/Lucas-Silva-Analytics/Portfolio]
 
 <h3 align="left"> 🖥 Tech Skills:</h3>
 <hr>
