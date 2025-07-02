@@ -22,7 +22,6 @@
 <h3 align="left"> 🎲 Meu Portfólio:</h3>
 <hr>
 - <strong>Acesse Aqui!</strong> [Portfolio](https://www.github.com/Lucas-Silva-Analytics/Portfolio)
-
 <br/>
 
 <h3 align="left"> 🖥 Tech Skills:</h3>
