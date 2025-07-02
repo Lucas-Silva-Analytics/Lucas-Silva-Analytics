@@ -24,7 +24,6 @@
 
 - 🎲[Acesse Aqui!](https://github.com/Lucas-Silva-Analytics/Portfolio)
 
- <br>
 
 <h3 align="left"> 🖥 Tech Skills:</h3>
 <hr>
